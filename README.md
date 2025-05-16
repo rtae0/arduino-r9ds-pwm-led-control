@@ -1,5 +1,5 @@
 # 🛰️ Arduino + R9DS + RadioLink RC 3채널 LED Controller
-youtube : https://youtu.be/1z5E2n8aHBc
+youtube : https://youtu.be/xajgR8OQiro?si=mEgLlh_d73H4q7nc
 
 이 프로젝트는 **RadioLink 조종기(AT9/T9/T9S 등)** 와 **R9DS 수신기**를 이용해,  
 아두이노로 **LED 2개 및 RGB 조명을 PWM 신호로 제어하는 시스템**입니다.
@@ -20,7 +20,8 @@ youtube : https://youtu.be/1z5E2n8aHBc
 <br>
 
 ## ⚡ 회로 연결
-![회로도](images/circuit.jpg)
+![회로사진](images/circuit.jpg)
+![회로도](images/cc.jpg)
 
 | 수신기 채널 | 아두이노 핀 | 기능 |
 |-------------|-------------|------|
